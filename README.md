@@ -2,9 +2,8 @@
 
 Seguindo o curso de flexbox da **[origamid](https://www.origamid.com/curso/css-flexbox/).**
 
-
-![_C__Users_alews_Downloads_3-flexblog_3-10-flexblog-footer_arquivos_flexblog_index html (1)](https://user-images.githubusercontent.com/56393487/136264610-e04d9917-852f-4c20-9a9b-d3df3ebacf84.png)
-
+ 
+![_C__Users_alews_Downloads_3-flexblog_3-10-flexblog-footer_arquivos_flexblog_index html (1) (2)](https://user-images.githubusercontent.com/56393487/136266575-2e2417af-f00d-4f86-996d-8be306043b33.png)
 
 ## 🛠️ Tecnologias e ferramentas utilizadas
 
