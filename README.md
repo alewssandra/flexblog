@@ -48,4 +48,4 @@ $ cd flexbog
 
 ## 🌎 LinkedIn
 
-<a href="#">Post no LinkedIn</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6851881247610818561/">Post no LinkedIn</a>
