@@ -1,4 +1,4 @@
-#  Projeto Flexbog - Aprendendo o Flexbox 
+#  Projeto Flexblog - Aprendendo o Flexbox 
 
 Seguindo o curso de flexbox da **[origamid](https://www.origamid.com/curso/css-flexbox/).**
 
